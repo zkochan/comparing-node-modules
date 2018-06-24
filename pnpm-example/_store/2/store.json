@@ -1,0 +1,155 @@
+{
+	"registry.npmjs.org/express/4.16.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/accepts/1.3.5": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/mime-types/2.1.18": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/mime-db/1.33.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/negotiator/0.6.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/array-flatten/1.1.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/body-parser/1.18.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/bytes/3.0.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/content-type/1.0.4": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/debug/2.6.9": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/ms/2.0.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/depd/1.1.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/http-errors/1.6.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/inherits/2.0.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/setprototypeof/1.1.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/statuses/1.5.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/iconv-lite/0.4.19": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/on-finished/2.3.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/ee-first/1.1.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/qs/6.5.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/raw-body/2.3.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/http-errors/1.6.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/depd/1.1.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/setprototypeof/1.0.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/unpipe/1.0.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/type-is/1.6.16": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/media-typer/0.3.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/content-disposition/0.5.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/cookie/0.3.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/cookie-signature/1.0.6": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/encodeurl/1.0.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/escape-html/1.0.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/etag/1.8.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/finalhandler/1.1.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/parseurl/1.3.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/statuses/1.4.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/fresh/0.5.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/merge-descriptors/1.0.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/methods/1.1.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/path-to-regexp/0.1.7": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/proxy-addr/2.0.3": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/forwarded/0.1.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/ipaddr.js/1.6.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/range-parser/1.2.0": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/safe-buffer/5.1.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/send/0.16.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/destroy/1.0.4": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/mime/1.4.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/serve-static/1.13.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/utils-merge/1.0.1": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	],
+	"registry.npmjs.org/vary/1.1.2": [
+		"/home/zkochan/src/comparing-node-modules/pnpm-example"
+	]
+}
